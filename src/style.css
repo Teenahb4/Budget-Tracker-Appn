@@ -86,4 +86,10 @@ button:hover {
   .menu.active {
     display: flex;
   }
+  button {
+  font-family: inherit;
+  transition: 0.3s ease;
+}
+
+
 }
